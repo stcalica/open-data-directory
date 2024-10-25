@@ -1,7 +1,3 @@
-Here's a README template to help you target students, hackathon participants, and general developers who are interested in exploring open data resources. This README will introduce your repository, provide context about the open data community, and offer a neatly organized table to showcase various open APIs and datasets.
-
----
-
 # 🌐 Open Data API Collection for Developers
 
 Welcome to the **Open Data API Collection**! This repository is built to empower students, hackathon participants, and developers by providing a curated list of free and accessible datasets and APIs from the open data community.
@@ -64,7 +60,3 @@ For more on the open data movement, check out these organizations:
 If you're passionate about transparency and open access to information, consider joining the **Open Data Community**. Contribute to open data projects, collaborate with other developers, and explore new data sources for your ideas.
 
 **Explore, innovate, and make the world more open with data!** 🌍✨
-
---- 
-
-This README will introduce the concept of open data, highlight its uses, and provide a user-friendly resource for developers at all stages.
