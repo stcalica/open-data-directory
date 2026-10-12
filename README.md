@@ -39,6 +39,7 @@ This collection brings together some of the best **open APIs** and **datasets** 
 | Health         | [CDC Data](https://data.cdc.gov)      | U.S. health and disease data                                                | [Docs](https://data.cdc.gov)               |
 | Environment    | [EPA Data](https://www.epa.gov/open-data) | Environmental data from the U.S. Environmental Protection Agency             | [Docs](https://www.epa.gov/open-data)      |
 | Education      | [OpenDataSoft](https://www.opendatasoft.com) | Open datasets from education, government, and business sources               | [Docs](https://www.opendatasoft.com/data)  |
+| Statistics     | [Invokely MCP](https://invokely.ai/mcp) | Hosted MCP API for querying official statistics by place and period; each value includes a source citation. Free account: 500 MCP calls/month; no-account trial: 25 calls/day/IP. REST value, series, comparison, and ranking queries require Builder, Pro, or prepaid credits; catalog lookups are free and CSV export is available on every plan with an API key. | [Docs](https://invokely.ai/docs) · [Publisher terms](https://invokely.ai/sources) |
 
 ---
 
